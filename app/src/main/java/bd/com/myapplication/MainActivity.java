@@ -11,6 +11,8 @@ import android.view.WindowManager;
 import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback {
+   //https://github.com/taehwandev/MediaCodecExample
+
     private VideoDecoderThread mVideoDecoder;
     String path;
 
